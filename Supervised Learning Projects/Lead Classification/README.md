@@ -5,7 +5,10 @@ The goal of this project is to find the "Hot Leads" for an Education company and
 ## Tech Stack
 
 - Language: Python
-- Libraries: Pandas, Numpy, Matplotlib, Seaborn
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sci-Kit Learn
 
 ## Appendix
 Classification
+StatsModel
+Confusion Matrix
+ROC Curve
