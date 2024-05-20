@@ -4,10 +4,10 @@ The objective of this project is to cluster the customers based on their purchas
 
 ## Tech Stack
 
-Language: Python
-Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sci-kit Learn
+- Language: Python
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sci-kit Learn
 
 ## Appendix
 
-K-Means
-Explortory Data Analysis
+- K-Means
+- Explortory Data Analysis
