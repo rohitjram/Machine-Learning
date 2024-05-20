@@ -8,6 +8,6 @@ The goal of this project is to find the "Hot Leads" for an Education company and
 - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sci-Kit Learn, StatsModels
 
 ## Appendix
-Classification
-Confusion Matrix
-ROC Curve
+- Classification
+- Confusion Matrix
+- ROC Curve
